@@ -1,3 +1,4 @@
 wempi_projek
 konsisten membangun aplikasi sesuai alur file
-membuat 
+membuat sebuah portal sekolah
+kolaborasi dengan teman
